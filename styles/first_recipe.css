@@ -1,8 +1,13 @@
-image{
- height:auto 
-
+.image{
+  width:50%;
+  height:auto
 }
 
-*{
-  background-color:red;
+h1, h2, p, section{
+  font-family:sans-serif;
 }
+
+ul{
+  list-style-type: none;
+}
+
