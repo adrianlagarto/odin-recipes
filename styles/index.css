@@ -1,0 +1,13 @@
+.topnav{
+  background-color:#740404ea;
+  position:fixed;
+  top:0;
+  left:0;
+  width: 100%;
+  display:flex;
+  justify-content:flex-end;
+}
+
+.title{
+  
+}
